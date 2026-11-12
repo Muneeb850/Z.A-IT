@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480">
+  <rect width="640" height="480" fill="#A8B78F"/>
+  <circle cx="500" cy="90" r="150" fill="#C9D4B5" opacity=".55"/>
+  <circle cx="90" cy="430" r="120" fill="#6C805B" opacity=".35"/>
+  <!-- ground shadow -->
+  <ellipse cx="320" cy="400" rx="210" ry="26" fill="#3B4B35" opacity=".28"/>
+  <!-- big box -->
+  <g>
+    <polygon points="190,250 320,310 320,400 190,340" fill="#E3DDC9"/>
+    <polygon points="320,310 450,250 450,340 320,400" fill="#CFC8B0"/>
+    <polygon points="190,250 320,190 450,250 320,310" fill="#F4F1E9"/>
+    <polygon points="290,205 350,175 395,196 335,226" fill="#6C805B" opacity=".55"/>
+  </g>
+  <!-- small box left -->
+  <g>
+    <polygon points="95,300 160,330 160,380 95,350" fill="#E3DDC9"/>
+    <polygon points="160,330 225,300 225,350 160,380" fill="#CFC8B0"/>
+    <polygon points="95,300 160,270 225,300 160,330" fill="#F4F1E9"/>
+  </g>
+  <!-- small box right on top -->
+  <g>
+    <polygon points="300,120 360,148 360,196 300,168" fill="#3B4B35"/>
+    <polygon points="360,148 420,120 420,168 360,196" fill="#2E3B29"/>
+    <polygon points="300,120 360,92 420,120 360,148" fill="#6C805B"/>
+  </g>
+  <!-- network nodes -->
+  <g stroke="#3B4B35" stroke-width="3" fill="none" opacity=".8">
+    <path d="M110 120 L190 80 L260 140"/><path d="M190 80 L230 40"/>
+  </g>
+  <g fill="#F4F1E9" stroke="#3B4B35" stroke-width="3">
+    <circle cx="110" cy="120" r="9"/><circle cx="190" cy="80" r="11"/><circle cx="260" cy="140" r="9"/><circle cx="230" cy="40" r="8"/>
+  </g>
+  <g fill="#3B4B35" opacity=".85"><rect x="470" y="300" width="60" height="8" rx="4"/><rect x="470" y="320" width="90" height="8" rx="4"/><rect x="470" y="340" width="44" height="8" rx="4"/></g>
+</svg>
