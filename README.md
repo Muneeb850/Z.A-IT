@@ -1,6 +1,6 @@
-# Z.A IT Zone website
+# AI Enterprises website
 
-Multi-page, animated website for Z.A IT Zone (networking, ISP/OSP, CCTV, PA systems, power & security, general supplier).
+Multi-page, animated website for AI Enterprises (networking, ISP/OSP, CCTV, PA systems, power & security, general supplier).
 Sage and off-white design, built with plain HTML/CSS/JS, GSAP, ScrollTrigger and Lenis (loaded from CDNs).
 
 ## Pages

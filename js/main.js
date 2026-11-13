@@ -1,4 +1,4 @@
-/* Z.A IT ZONE — interactions
+/* AI ENTERPRISES — interactions
    GSAP + ScrollTrigger + Lenis + Three.js (all loaded from CDN; site degrades gracefully if they fail) */
 (function () {
   'use strict';
